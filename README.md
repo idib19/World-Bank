@@ -1,5 +1,5 @@
 # World-Bank
-A Demo banking app created using react native
-Une Demo application de banking creer en utlisant react native
+A cross-platform IOS+ANDROID mobile banking app created using react native
+Une application mobile cross-platformes de banking créer en utlisant react native
 
 
